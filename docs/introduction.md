@@ -1,5 +1,9 @@
 ---
 import style from "../styles/global.css"
+
+Title: Introduction
+Head: Hawk Eye The Rapper: A Visionary Voice for Truth and Transformation
+Header: Hawk Eye The Rapper transcends conventional hip-hop boundaries..
 ---
 
 <style>
@@ -7,8 +11,9 @@ import style from "../styles/global.css"
 
 <p>
 <style>
-<div class=
+<div class=Header>
 #Reincarnated2Resist | The Message They Can’t Muzzle
+  </div>
 </style>
   <style>
 We are the ones they couldn’t silence. The light they couldn’t dim. The memory they tried to erase — and failed. I go by Hawk Eye, and this isn’t just art, music, or protest. This is an Omniversal Recall. A resurrection of truth, resistance, and divine purpose, born through fire — #Reincarnated2Resist.
