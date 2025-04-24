@@ -1,5 +1,6 @@
 ---
-Title: Introduction
+Title: Hawk Eye The Rapper: A Visionary Voice for Truth and Transformation
+Introduction: Hawk Eye The Rapper transcends conventional hip-hop boundaries..
 Head: Hawk Eye The Rapper: A Visionary Voice for Truth and Transformation
 Header: Hawk Eye The Rapper transcends conventional hip-hop boundaries..
 ---
