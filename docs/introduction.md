@@ -1,6 +1,5 @@
 ---
 import style from "../styles/global.css"
-
 Title: Introduction
 Head: Hawk Eye The Rapper: A Visionary Voice for Truth and Transformation
 Header: Hawk Eye The Rapper transcends conventional hip-hop boundaries..
